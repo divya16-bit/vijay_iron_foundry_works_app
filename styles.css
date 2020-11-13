@@ -44,10 +44,7 @@ body{
 	width:650px;
 	height:400px;
 }
-#carouselExampleIndicators{
-	width:700px;
-	margin-left:300px;
-}
+
 .box1{
 	position:relative;
 	display:inline;
@@ -174,6 +171,13 @@ a:hover {
         border-bottom: none;
         background:green;
     }
+
+.i1 {
+	text-align: center;
+	width: 80%;
+	height: 500px;
+
+}
 
 
 	</style>
